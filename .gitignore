@@ -1,0 +1,9 @@
+# NO subir secretos ni credenciales
+.streamlit/secrets.toml
+.env
+
+# basura
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
